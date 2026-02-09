@@ -11,4 +11,4 @@ Spectral Technologies has developed this transform. The transform that has been 
 
 ## Author
 
-The author Nathaniel Rogalskyj worked as a quantitative developer at SIG. 
+The author Nathaniel Rogalskyj worked as a quantitative developer at SIG and received his bachelor's degree in Computer Science from Cornell. 
