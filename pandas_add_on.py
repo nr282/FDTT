@@ -9,7 +9,7 @@ but we will look to interpolate other datasets.
 
 import pandas as pd
 import numpy as np
-from disaggregation.variational_framework import VariationalFramework, IntegralConstraintElement, IntegralConstraint
+from variational_framework import VariationalFramework, IntegralConstraintElement, IntegralConstraint
 from datetime import datetime, timedelta
 import calendar
 import math

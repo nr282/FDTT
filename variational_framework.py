@@ -17,7 +17,6 @@ import matplotlib.pyplot as plt
 import logging
 from functools import partial
 import scipy.integrate as integrate
-import unittest
 
 
 logging.basicConfig(level=logging.DEBUG)
