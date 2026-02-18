@@ -9,6 +9,12 @@ Due to the criticality of the time dimension of the financial market, an investm
 
 Spectral Technologies has developed this transform. The transform that has been developed is called Fast Disaggregation in Time Technology (FDTT). FDTT is derived using variational principles and energy minimization techniques. FDTT has been applied to improve the Discounted Cash Flow, a core formula in equities markets. Such improved Discounted Cash Flow has been endorsed by Christopher Jones, Oxford PhD, Jump Trading Researcher. Furthermore, FDTT has also been applied to EIA Natural Gas Market Data, and is in usage at major, global hedge fund for their commodities division. The techniques have drawn interest from researchers and exists in code bases at Capital One, NextEra Energy and DC Energy. 
 
+## Example Applied to Natural Gas Data
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/dd70a002-7577-4a39-b6dc-611ca849e836" />
+
+
+
 ## Author
 
 The author Nathaniel Rogalskyj worked as a quantitative developer at SIG and received his bachelor's degree in Computer Science from Cornell. 
