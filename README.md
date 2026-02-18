@@ -7,6 +7,8 @@ Likewise, the high speed nature of financial markets requires one to be able rea
 
 Due to the criticality of the time dimension of the financial market, an investment process will have two desirable properties: (a) use high quality lower frequency data or a simple set of lower frequency data in the investment process, (b) be able to relate this lower frequency data to a higher frequency time scale at which the financial markets trade. These two properties argue for the development of processes that allow for transform of lower frequency data to higher frequency, accurate data. 
 
+## Spectral Technologies develops FDTT
+
 Spectral Technologies has developed this transform. The transform that has been developed is called Fast Disaggregation in Time Technology (FDTT). FDTT is derived using variational principles and energy minimization techniques. FDTT has been applied to improve the Discounted Cash Flow, a core formula in equities markets. Such improved Discounted Cash Flow has been endorsed by Christopher Jones, Oxford PhD, Jump Trading Researcher. Furthermore, FDTT has also been applied to EIA Natural Gas Market Data, and is in usage at major, global hedge fund for their commodities division. The techniques have drawn interest from researchers and exists in code bases at Capital One, NextEra Energy and DC Energy. 
 
 ## Example Applied to Natural Gas Data
