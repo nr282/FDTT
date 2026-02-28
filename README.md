@@ -1,4 +1,4 @@
-## Problem: Low Frequency Data, High Frequency Markets
+;## Problem: Low Frequency Data, High Frequency Markets
 
 
 Time is a critical dimension in finance. Time value of money is one of the core principles and is the basis for the discounted cash flow in equities markets. Time value of money is also the basis of carrying cost in commodities markets. 
